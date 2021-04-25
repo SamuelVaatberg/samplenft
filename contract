@@ -1,0 +1,8 @@
+{
+  "name": "ERC1155 Alpha Omega",
+  "description": "This shit is the tits man.",
+  "image": "http://dragonnft.finance/wp-content/uploads/2021/04/Banner_02.png",
+  "external_link": "https://openseacreatures.io",
+  "seller_fee_basis_points": 10,
+  "fee_recipient": "0x822aBc190036A921827595dfcB1B5aD86dF33701"
+}
