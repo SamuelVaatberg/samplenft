@@ -104,6 +104,32 @@
                   "value": 1
                 }
             ] 
+        },
+        {
+            "id": 5,
+            "description": "Legendary edition of Bunny Bulma",
+            "external_url": "dragonmoon.space",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Bulma_legendary.mp4",
+            "name": "Bunny Bulma",
+            "attributes": [
+                {
+                  "trait_type": "Race", 
+                  "value": "Human Earthling"
+                }, 
+                {
+                  "trait_type": "Allegiance", 
+                  "value": "Capsule Corp."
+                }, 
+                {
+                  "trait_type": "Powerlevel", 
+                  "value": 1
+                }, 
+                {
+                  "display_type": "number", 
+                  "trait_type": "Edition", 
+                  "value": 1
+                }
+            ] 
         }
          ],
          "contract": 
@@ -112,7 +138,7 @@
             "description": "This shit is the tits man.",
             "image": "https://dragonmoon.space/wp-content/uploads/2021/05/DragonMoon_Logo_orange-1.png",
             "external_link": "dragonmoon.space",
-            "seller_fee_basis_points": 10,
+            "seller_fee_basis_points": 1000,
             "fee_recipient": "0x822aBc190036A921827595dfcB1B5aD86dF33701"
           }
 }
