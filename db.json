@@ -1,25 +1,118 @@
+
 {
     "tokens": [
         {
-            "id": 0,
-            "description": "NFT with ID 0",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Goku"
-        },
-        {
             "id": 1,
-            "description": "NFT with ID 1",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Bulma"
+            "description": "Goku, the legendary Saiyan",
+            "external_url": "dragonmoon.space",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Goku_Common-1.png",
+            "name": "Goku",
+            "attributes": [
+                {
+                  "trait_type": "Race", 
+                  "value": "Saiyan"
+                }, 
+                {
+                  "trait_type": "Allegiance", 
+                  "value": "Z-Fighters"
+                }, 
+                {
+                  "trait_type": "Powerlevel", 
+                  "value": 416
+                }, 
+                {
+                  "display_type": "number", 
+                  "trait_type": "Edition", 
+                  "value": 1
+                }
+            ] 
         },
         {
             "id": 2,
-            "description": "NFT with ID 2",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Gohan"
+            "description": "Bunny Bulma",
+            "external_url": "dragonmoon.space",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Bulma_Common.png",
+            "name": "Bulma",
+            "attributes": [
+                {
+                  "trait_type": "Race", 
+                  "value": "Human Earthling"
+                }, 
+                {
+                  "trait_type": "Allegiance", 
+                  "value": "Capsule Corp."
+                }, 
+                {
+                  "trait_type": "Powerlevel", 
+                  "value": 1
+                }, 
+                {
+                  "display_type": "number", 
+                  "trait_type": "Edition", 
+                  "value": 1
+                }
+            ] 
+        },
+        {
+            "id": 3,
+            "description": "Enraged baby Gohan",
+            "external_url": "dragonmoon.space",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Enraged_Gohan_Common.png",
+            "name": "Gohan",
+            "attributes": [
+                {
+                  "trait_type": "Race", 
+                  "value": "Saiyan/Human"
+                }, 
+                {
+                  "trait_type": "Allegiance", 
+                  "value": "Z-Fighters"
+                }, 
+                {
+                  "trait_type": "Powerlevel", 
+                  "value": 1307
+                }, 
+                {
+                  "display_type": "number", 
+                  "trait_type": "Edition", 
+                  "value": 1
+                }
+            ] 
+        },
+        {
+            "id": 4,
+            "description": "Maron, the hot airhead",
+            "external_url": "dragonmoon.space",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Maron_Common.png",
+            "name": "Maron",
+            "attributes": [
+                {
+                  "trait_type": "Race", 
+                  "value": "Saiyan/Human"
+                }, 
+                {
+                  "trait_type": "Allegiance", 
+                  "value": "None"
+                }, 
+                {
+                  "trait_type": "Powerlevel", 
+                  "value": 2
+                }, 
+                {
+                  "display_type": "number", 
+                  "trait_type": "Edition", 
+                  "value": 1
+                }
+            ] 
         }
-    ]
+         ],
+         "contract": 
+           {
+            "name": "ERC1155 Alpha Omega",
+            "description": "This shit is the tits man.",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/DragonMoon_Logo_orange-1.png",
+            "external_link": "dragonmoon.space",
+            "seller_fee_basis_points": 10,
+            "fee_recipient": "0x822aBc190036A921827595dfcB1B5aD86dF33701"
+          }
 }
