@@ -88,7 +88,7 @@
             "attributes": [
                 {
                   "trait_type": "Race", 
-                  "value": "Human Earthling"
+                  "value": "Saiyan/Human"
                 }, 
                 {
                   "trait_type": "Allegiance", 
@@ -131,11 +131,11 @@
                 }
             ] 
         }
-         ],
+     ],
          "contract": 
            {
-            "name": "ERC1155 Alpha Omega",
-            "description": "This shit is the tits man.",
+            "name": "DragonMoon.Space",
+            "description": "The official OpenSea page of DragoMoon NFTs.",
             "image": "https://dragonmoon.space/wp-content/uploads/2021/05/DragonMoon_Logo_orange-1.png",
             "external_link": "dragonmoon.space",
             "seller_fee_basis_points": 1000,
