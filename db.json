@@ -240,7 +240,37 @@
               "value": 1
             }
         ] 
-      }
+      },
+      {
+        "id": 9,
+        "description": "Goku, the legendary Saiyan",
+        "external_url": "dragonmoon.space",
+        "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Goku_01_L.mp4",
+        "name": "Goku",
+        "attributes": [
+            {
+              "trait_type": "Race", 
+              "value": "Saiyan"
+            }, 
+            {
+              "trait_type": "Allegiance", 
+              "value": "Z-Fighters"
+            }, 
+            {
+              "trait_type": "Powerlevel", 
+              "value": "416"
+            }, 
+            {
+                "trait_type": "Rarity", 
+                "value": "Legendary"
+            },                 
+            {
+              "display_type": "number", 
+              "trait_type": "Edition", 
+              "value": 1
+            }
+        ] 
+    }
      ],
          "contract": 
            {
