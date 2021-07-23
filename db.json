@@ -245,7 +245,7 @@
         "id": 9,
         "description": "Goku, the legendary Saiyan",
         "external_url": "dragonmoon.space",
-        "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Goku_01_L.mp4",
+        "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_01.mp4",
         "name": "Goku",
         "attributes": [
             {
@@ -258,7 +258,7 @@
             }, 
             {
               "trait_type": "Powerlevel", 
-              "value": "416"
+              "value": "17,000"
             }, 
             {
                 "trait_type": "Rarity", 
