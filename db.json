@@ -5,7 +5,7 @@
             "id": 1,
             "description": "Goku, the legendary Saiyan",
             "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Goku_Common-1.png",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_Common_01.png",
             "name": "Goku",
             "attributes": [
                 {
@@ -35,7 +35,7 @@
             "id": 2,
             "description": "Bunny Bulma",
             "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Bulma_Common.png",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Bulma_Common_01.png",
             "name": "Bulma",
             "attributes": [
                 {
@@ -63,9 +63,9 @@
         },
         {
             "id": 3,
-            "description": "Enraged baby Gohan",
+            "description": "Baby Gohan",
             "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Enraged_Gohan_Common.png",
+            "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Gohan_Common_01.png",
             "name": "Gohan",
             "attributes": [
                 {
