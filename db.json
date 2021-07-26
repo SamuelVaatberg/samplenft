@@ -1,284 +1,359 @@
-
 {
-    "tokens": [
-        {
-            "id": 1,
-            "description": "Goku, the legendary Saiyan",
-            "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_Common_01.png",
-            "name": "Goku",
-            "attributes": [
-                {
-                  "trait_type": "Race", 
-                  "value": "Saiyan"
-                }, 
-                {
-                  "trait_type": "Allegiance", 
-                  "value": "Z-Fighters"
-                }, 
-                {
-                  "trait_type": "Powerlevel", 
-                  "value": "416"
-                }, 
-                {
-                    "trait_type": "Rarity", 
-                    "value": "Common"
-                },                 
-                {
-                  "display_type": "number", 
-                  "trait_type": "Edition", 
-                  "value": 1
-                }
-            ] 
-        },
-        {
-            "id": 2,
-            "description": "Bunny Bulma",
-            "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Bulma_Common_01.png",
-            "name": "Bulma",
-            "attributes": [
-                {
-                  "trait_type": "Race", 
-                  "value": "Human Earthling"
-                }, 
-                {
-                  "trait_type": "Allegiance", 
-                  "value": "Capsule Corp."
-                }, 
-                {
-                  "trait_type": "Powerlevel", 
-                  "value": "1"
-                }, 
-                {
-                    "trait_type": "Rarity", 
-                    "value": "Common"
-                },                 
-                {
-                  "display_type": "number", 
-                  "trait_type": "Edition", 
-                  "value": 1
-                }
-            ] 
-        },
-        {
-            "id": 3,
-            "description": "Baby Gohan",
-            "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Gohan_Common_01.png",
-            "name": "Gohan",
-            "attributes": [
-                {
-                  "trait_type": "Race", 
-                  "value": "Saiyan/Human"
-                }, 
-                {
-                  "trait_type": "Allegiance", 
-                  "value": "Z-Fighters"
-                }, 
-                {
-                  "trait_type": "Powerlevel", 
-                  "value": "1307"
-                }, 
-                {
-                    "trait_type": "Rarity", 
-                    "value": "Common"
-                }, 
-                {
-                  "display_type": "number", 
-                  "trait_type": "Edition", 
-                  "value": 1
-                }
-            ] 
-        },
-        {
-            "id": 4,
-            "description": "Maron, the hot airhead",
-            "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Maron_Common.png",
-            "name": "Maron",
-            "attributes": [
-                {
-                  "trait_type": "Race", 
-                  "value": "Saiyan/Human"
-                }, 
-                {
-                  "trait_type": "Allegiance", 
-                  "value": "None"
-                }, 
-                {
-                  "trait_type": "Powerlevel", 
-                  "value": 2
-                },
-                {
-                    "trait_type": "Rarity", 
-                    "value": "Rare"
-                },                 
-                {
-                  "display_type": "number", 
-                  "trait_type": "Edition", 
-                  "value": 1
-                }
-            ] 
-        },
-        {
-            "id": 5,
-            "description": "Bunny Bulma, the legendary edition",
-            "external_url": "dragonmoon.space",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/06/Bulma_legend.mp4",
-            "name": "Bunny Bulma",
-            "attributes": [
-                {
-                  "trait_type": "Race", 
-                  "value": "Human Earthling"
-                }, 
-                {
-                  "trait_type": "Allegiance", 
-                  "value": "Capsule Corp."
-                }, 
-                {
-                  "trait_type": "Powerlevel", 
-                  "value": "1"
-                }, 
-                {
-                    "trait_type": "Rarity", 
-                    "value": "Legendary"
-                }, 
-                {
-                  "display_type": "number", 
-                  "trait_type": "Edition", 
-                  "value": 1
-                }
-            ] 
-        },
-        {
-          "id": 6,
-          "description": "Shu, the Shiba Inu ninja ",
-          "external_url": "dragonmoon.space",
-          "image": "https://dragonmoon.space/wp-content/uploads/2021/06/Shu_Common.png",
-          "name": "Shu",
-          "attributes": [
-              {
-                "trait_type": "Race", 
-                "value": "Shiba Inu Earthling"
-              }, 
-              {
-                "trait_type": "Allegiance", 
-                "value": "Pilaf Gang"
-              }, 
-              {
-                "trait_type": "Powerlevel", 
-                "value": "20"
-              }, 
-              {
-                  "trait_type": "Rarity", 
-                  "value": "Common"
-              }, 
-              {
-                "display_type": "number", 
-                "trait_type": "Edition", 
-                "value": 1
-              }
-          ] 
-      },
-      {
-        "id": 7,
-        "description": "Raditz, brother of Goku",
-        "external_url": "dragonmoon.space",
-        "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Raditz_common.png",
-        "name": "Raditz",
-        "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Saiyan"
-            }, 
-            {
-              "trait_type": "Allegiance", 
-              "value": "Frieza Force"
-            }, 
-            {
-              "trait_type": "Powerlevel", 
-              "value": "1500"
-            }, 
-            {
-                "trait_type": "Rarity", 
-                "value": "Common"
-            }, 
-            {
-              "display_type": "number", 
-              "trait_type": "Edition", 
-              "value": 1
-            }
-        ] 
-      },
-      {
-        "id": 8,
-        "description": "Saibamen, plant them in the ground, add some liquid and chaos hatches",
-        "external_url": "dragonmoon.space",
-        "image": "https://dragonmoon.space/wp-content/uploads/2021/05/Saibaman_Common.png",
-        "name": "Saibamen",
-        "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Alien"
-            }, 
-            {
-              "trait_type": "Allegiance", 
-              "value": "Frieza Force"
-            }, 
-            {
-              "trait_type": "Powerlevel", 
-              "value": "1200"
-            }, 
-            {
-                "trait_type": "Rarity", 
-                "value": "Common"
-            }, 
-            {
-              "display_type": "number", 
-              "trait_type": "Edition", 
-              "value": 1
-            }
-        ] 
-      },
-      {
-        "id": 9,
-        "description": "Goku, the legendary Saiyan",
-        "external_url": "dragonmoon.space",
-        "image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_01.mp4",
-        "name": "Goku",
-        "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Saiyan"
-            }, 
-            {
-              "trait_type": "Allegiance", 
-              "value": "Z-Fighters"
-            }, 
-            {
-              "trait_type": "Powerlevel", 
-              "value": "17,000"
-            }, 
-            {
-                "trait_type": "Rarity", 
-                "value": "Legendary"
-            },                 
-            {
-              "display_type": "number", 
-              "trait_type": "Edition", 
-              "value": 1
-            }
-        ] 
-    }
-     ],
-         "contract": 
-           {
-            "name": "DragonMoon.Space",
-            "description": "The official OpenSea page of DragoMoon NFTs.",
-            "image": "https://dragonmoon.space/wp-content/uploads/2021/05/DragonMoon_Logo_orange-1.png",
-            "external_link": "dragonmoon.space",
-            "seller_fee_basis_points": 1000,
-            "fee_recipient": "0x357e60A5202c26519fc4fd9cC96E4E92c9D8dcFe"
-          }
+	"tokens": [{
+			"id": 1,
+			"description": "Goku, the legendary Saiyan",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_Common_01.png",
+			"name": "Goku",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Saiyan"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Z-Fighters"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "416"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Common"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"description": "Bunny Bulma",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Bulma_Common_01.png",
+			"name": "Bulma",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Human Earthling"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Capsule Corp."
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "1"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Common"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"description": "Baby Gohan",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Gohan_Common_01.png",
+			"name": "Gohan",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Saiyan/Human"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Z-Fighters"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "1307"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Common"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"description": "Maron, the hot airhead",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Maron_01.mp4",
+			"name": "Maron",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Human"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "None"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": 2
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Rare"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"description": "Bunny Bulma, the legendary edition",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Bulma_legendary_01.mp4",
+			"name": "Bunny Bulma",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Human Earthling"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Capsule Corp."
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "1"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Legendary"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"description": "Shu, the Shiba Inu ninja ",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Shu_Common_01.png",
+			"name": "Shu",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Shiba Inu Earthling"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Pilaf Gang"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "20"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Common"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"description": "Raditz, brother of Goku",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Raditz_common_01.png",
+			"name": "Raditz",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Saiyan"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Frieza Force"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "1500"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Common"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"description": "Saibamen, plant them in the ground, add some liquid and chaos hatches",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Saibaman_Common_01.png",
+			"name": "Saibamen",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Alien"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Frieza Force"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "1200"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Common"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"description": "Goku, the legendary Saiyan",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_legendary_01.mp4",
+			"name": "Goku",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Saiyan"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Z-Fighters"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "17,000"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Legendary"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"description": "Goku, the legendary Saiyan",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_rare_01.mp4",
+			"name": "Goku",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Saiyan"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Z-Fighters"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "416"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Rare"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"description": "Vegeta, the Saiyan prince",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Vegeta_legendary_01.mp4",
+			"name": "Vegeta",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Saiyan"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Frieza Force"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "18,000"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Legendary"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"description": "Shu, the Shiba Inu ninja ",
+			"external_url": "dragonmoon.space",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Shu_legendary_01.mp4",
+			"name": "Shu",
+			"attributes": [{
+					"trait_type": "Race",
+					"value": "Shiba Inu Earthling"
+				},
+				{
+					"trait_type": "Allegiance",
+					"value": "Pilaf Gang"
+				},
+				{
+					"trait_type": "Powerlevel",
+					"value": "20"
+				},
+				{
+					"trait_type": "Rarity",
+					"value": "Legendary"
+				},
+				{
+					"display_type": "number",
+					"trait_type": "Edition",
+					"value": 1
+				}
+			]
+		}
+	],
+	"contract": {
+		"name": "DragonMoon.Space",
+		"description": "The official OpenSea page of DragoMoon NFTs.",
+		"image": "https://dragonmoon.space/wp-content/uploads/2021/05/DragonMoon_Logo_orange-1.png",
+		"external_link": "dragonmoon.space",
+		"seller_fee_basis_points": 1000,
+		"fee_recipient": "0x357e60A5202c26519fc4fd9cC96E4E92c9D8dcFe"
+	}
 }
