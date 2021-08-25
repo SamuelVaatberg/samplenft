@@ -3,7 +3,7 @@
 			"id": 1,
 			"description": "Goku, the legendary Saiyan",
 			"external_url": "dragonmoon.space",
-			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Goku_Common_01.png",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/08/Goku_01.mp4",
 			"name": "Goku",
 			"attributes": [{
 					"trait_type": "Race",
@@ -32,7 +32,7 @@
 			"id": 2,
 			"description": "Bunny Bulma",
 			"external_url": "dragonmoon.space",
-			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Bulma_Common_01.png",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/08/Bulma_01.mp4",
 			"name": "Bulma",
 			"attributes": [{
 					"trait_type": "Race",
@@ -61,7 +61,7 @@
 			"id": 3,
 			"description": "Baby Gohan",
 			"external_url": "dragonmoon.space",
-			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Gohan_Common_01.png",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/08/Gohan_01.mp4",
 			"name": "Gohan",
 			"attributes": [{
 					"trait_type": "Race",
@@ -148,7 +148,7 @@
 			"id": 6,
 			"description": "Shu, the Shiba Inu ninja ",
 			"external_url": "dragonmoon.space",
-			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Shu_Common_01.png",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/08/Shu_01.mp4",
 			"name": "Shu",
 			"attributes": [{
 					"trait_type": "Race",
@@ -177,7 +177,7 @@
 			"id": 7,
 			"description": "Raditz, brother of Goku",
 			"external_url": "dragonmoon.space",
-			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Raditz_common_01.png",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/08/Raditz_01.mp4",
 			"name": "Raditz",
 			"attributes": [{
 					"trait_type": "Race",
@@ -206,7 +206,7 @@
 			"id": 8,
 			"description": "Saibamen, plant them in the ground, add some liquid and chaos hatches",
 			"external_url": "dragonmoon.space",
-			"image": "https://dragonmoon.space/wp-content/uploads/2021/07/Saibaman_Common_01.png",
+			"image": "https://dragonmoon.space/wp-content/uploads/2021/08/Saibamen_01.mp4",
 			"name": "Saibamen",
 			"attributes": [{
 					"trait_type": "Race",
